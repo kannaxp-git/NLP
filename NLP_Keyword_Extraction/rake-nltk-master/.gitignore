@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+dist/
+.Python
+bin/
+include/
+lib/
+pip-selfcheck.json
+.cache/
+.eggs/
+rake_nltk.egg-info/

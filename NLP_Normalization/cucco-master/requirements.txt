@@ -1,0 +1,4 @@
+click
+codeclimate-test-reporter
+pyyaml
+watchdog

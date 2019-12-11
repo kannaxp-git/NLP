@@ -1,0 +1,1586 @@
+1,expertise,1.0
+2,collaboration,1.0
+2,knowledge,1.0
+2,quality,1.0
+2,solutions,1.0
+3,phase pilot project integration,16.0
+3,merger,1.0
+3,company,1.0
+3,yammer,1.0
+3,networks,1.0
+4,renewal 2016 dimension,4.0
+4,preventive action,4.0
+4,run,1.0
+4,consideration,1.0
+4,reduce,1.0
+5,mission short,4.0
+5,deliverables expected,4.0
+5,professional,1.0
+5,provision,1.0
+6,execution speed understanding,9.0
+6,meet,1.0
+6,reactivity,1.0
+6,capacity,1.0
+7,bi microsoft products,9.0
+7,retex teams,4.0
+7,solutions,1.0
+7,exchange,1.0
+8,good experience,4.0
+8,honest manner,4.0
+8,account,1.0
+8,chreche,1.0
+8,pragmatic,1.0
+8,takes,1.0
+8,frank,1.0
+8,problems,1.0
+8,solve,1.0
+8,subject,1.0
+8,intervener,1.0
+9,technical level,4.0
+9,listen,1.0
+9,mcs,1.0
+9,understand,1.0
+9,problems,1.0
+9,priori,1.0
+9,ability,1.0
+10,oriented microsoft products company,16.0
+10,air france/klm,4.0
+10,architecture similar,4.0
+10,experience,1.0
+10,knowledge,1.0
+10,set,1.0
+11,amenities,1.0
+11,meetings,1.0
+11,windows 10,1.0
+11,products,1.0
+11,information,1.0
+12,strategic choices,4.0
+12,present mcs,4.0
+12,guide,1.0
+12,order,1.0
+12,involved,1.0
+13,microsoft technologies,4.0
+13,skills,1.0
+13,tools,1.0
+14,advice tailored,4.0
+14,context,1.0
+15,study architecture exchange +,16.0
+16,lync s4b,4.0
+16,raas,1.0
+17,ems solutions,4.0
+18,remediation exchange,4.0
+18,operating dpm,4.0
+19,bi,1.0
+20,clear intervention report,9.0
+21,rapid response,4.0
+21,updated profiles,4.0
+21,accompany,1.0
+21,quality,1.0
+21,place,1.0
+22,perfect integration,4.0
+22,ccms,1.0
+22,mindef,1.0
+23,deployment,1.0
+23,coliposte,1.0
+23,office 365,1.0
+24,sccm2012 study,4.0
+24,public cloud,4.0
+24,council,1.0
+24,benefits,1.0
+24,presentation,1.0
+24,collaborative,1.0
+24,integration,1.0
+25,professional,1.0
+25,responsive,1.0
+26,technical expertise,4.0
+26,reactivity,1.0
+26,level,1.0
+27,health sector,4.0
+27,good advice,4.0
+27,people,1.0
+27,problems,1.0
+27,understanding,1.0
+27,quickly,1.0
+27,important,1.0
+27,fast,1.0
+27,talk,1.0
+28,secure messaging,4.0
+28,elearning projects,4.0
+28,specific architectures,4.0
+28,proposals,1.0
+28,virtualization,1.0
+28,health,1.0
+28,services,1.0
+29,work telemedicine gt9,9.0
+29,common reflection,4.0
+29,group,1.0
+29,caih,1.0
+30,professionals,1.0
+31,organize demonstrations sessions / discoveries,25.0
+31,good understanding,4.0
+31,quality,1.0
+31,responsiveness,1.0
+31,exchanges,1.0
+31,availability,1.0
+31,interlocutors,1.0
+31,solutions,1.0
+32,onprem context,4.0
+32,microsoft solutions,3.5
+32,microsoft,1.5
+32,deployment,1.0
+32,support,1.0
+32,involvement,1.0
+33,microsoft clients caih,7.5
+33,caih programme,4.5
+33,products offered,4.0
+33,accompanying experiments,4.0
+33,technical accompaniments,4.0
+33,clients,2.0
+33,deliverables,1.0
+33,results,1.0
+33,catalogue,1.0
+33,content,1.0
+33,information,1.0
+33,communication,1.0
+33,workshops,1.0
+33,update,1.0
+33,feedback,1.0
+34,high leaders,4.0
+34,bnpp group,4.0
+34,convince,1.0
+35,account manager,4.0
+35,begin,1.0
+36,contact person physically,9.0
+36,germany based,4.0
+36,account manager/team,4.0
+36,support ways,4.0
+36,shorten communication,3.5
+36,communication,1.5
+36,urgently,1.0
+36,case,1.0
+36,local,1.0
+36,language,1.0
+36,easen,1.0
+36,emergency,1.0
+36,vital,1.0
+36,key,1.0
+36,location,1.0
+37,constructive trade relations,9.0
+37,make stimulus,4.0
+37,good contacts,4.0
+37,declared incident,4.0
+37,regularly informed,4.0
+37,account,1.0
+37,resolution,1.0
+37,support,1.0
+37,direction,1.0
+37,affect,1.0
+37,rich,1.0
+37,team,1.0
+37,progress,1.0
+37,monitoring,1.0
+37,charge,1.0
+38,close interaction,4.0
+38,clients,1.0
+38,products,1.0
+38,present,1.0
+38,continue,1.0
+39,3d design software,9.0
+39,existing environment,4.0
+39,expect,1.0
+39,cisco,1.0
+39,integration,1.0
+39,oracle,1.0
+40,team integrated,4.0
+40,broad question,4.0
+40,work,1.0
+40,require,1.0
+41,propose axes,4.0
+41,collaborative work,4.0
+41,satisfactory level,4.0
+41,proactive,1.0
+41,development,1.0
+41,innovation,1.0
+41,communication,1.0
+41,microsoft,1.0
+42,relationship,1.0
+42,make,1.0
+42,team,1.0
+43,flexible contractually,4.0
+43,open,1.0
+43,office 365,1.0
+43,azure,1.0
+44,product teams azure customer,16.0
+44,customers,1.0
+44,easily,1.0
+44,back,1.0
+45,provided real solutions,9.0
+45,private,1.0
+45,clouds,1.0
+46,lower costs,4.0
+47,lower costs azure,9.0
+48,lowest price,4.0
+49,stop harrassing,4.0
+49,surveys,1.0
+49,kind,1.0
+49,great,1.0
+50,large accounts supported,9.0
+50,enterprise portals,4.0
+50,growing presence,4.0
+50,dynamics crm,3.5
+50,erp offerings,3.5
+50,erp,1.5
+50,crm,1.5
+50,ecommerce,1.0
+50,world,1.0
+50,back,1.0
+50,level,1.0
+50,offer 360,1.0
+50,company,1.0
+50,integration,1.0
+50,show,1.0
+50,order,1.0
+50,relevance,1.0
+50,maturity,1.0
+50,reputation,1.0
+51,suggestions,1.0
+51,listening,1.0
+51,customers,1.0
+52,account,1.0
+52,customer,1.0
+52,reliability,1.0
+53,working environment,4.0
+53,consideration,1.0
+53,art,1.0
+53,contribution,1.0
+53,group,1.0
+53,market,1.0
+53,strategy,1.0
+53,state,1.0
+54,involvement / understanding,9.0
+54,software/cloud offering,4.0
+54,relateion,1.0
+54,operations,1.0
+55,politicians makers,4.0
+55,presentations/training administrators,4.0
+56,innovation monitoring king,9.0
+56,services collaboration,4.0
+56,price,1.0
+56,licences,1.0
+57,innovation,1.0
+58,communicate,1.0
+58,facilitation,1.0
+58,innovations,1.0
+59,collaborative applications,4.0
+59,design/ergonomics,1.0
+59,csr,1.0
+59,integration,1.0
+59,gol,1.0
+59,instant,1.0
+59,mail,1.0
+60,microsoft systems,4.0
+60,software integration,4.0
+60,office mac,4.0
+60,equivalent windows,4.0
+60,impeccable level,3.5
+60,level,1.5
+60,surface,1.0
+60,outlook,1.0
+60,ios,1.0
+61,heterogeneous environment,4.0
+61,integration,1.0
+61,solutions,1.0
+62,collaboration solutions,4.0
+62,integration,1.0
+62,cisco,1.0
+63,apple apps store,9.0
+63,plate form bes,9.0
+63,connected objects,4.0
+63,microsoft support,3.666666666666667
+63,microsoft management,3.666666666666667
+63,database provider,3.5
+63,microsoft,1.6666666666666667
+63,database,1.5
+63,worthy,1.0
+63,interface,1.0
+63,xenmobile,1.0
+63,files,1.0
+63,equipment,1.0
+63,impression,1.0
+63,gladly,1.0
+63,confirais,1.0
+63,provide,1.0
+63,domain,1.0
+63,workstations,1.0
+63,mdm/mam,1.0
+63,resources,1.0
+63,windows,1.0
+63,mail,1.0
+63,oracle,1.0
+64,mature tools,4.0
+64,corresponds,1.0
+64,licencing,1.0
+64,establishment,1.0
+64,professions,1.0
+64,mode,1.0
+65,improvement costs licences,9.0
+66,core licensing rules,8.5
+66,licensing mode,4.5
+66,servers including,4.0
+66,wild,1.0
+66,evolution,1.0
+66,improvement,1.0
+67,multi environment undertaken,9.0
+67,rds cal management,7.5
+67,licensing windows server 2016,7.333333333333334
+67,server cal,4.833333333333334
+67,license server,4.333333333333334
+67,good start,4.0
+67,data centers,4.0
+67,licensing,2.0
+67,management,2.0
+67,future,1.0
+67,piece,1.0
+67,frozen,1.0
+67,improvements,1.0
+67,heart,1.0
+67,true,1.0
+67,licenses,1.0
+67,rights,1.0
+67,complicated,1.0
+67,office 365,1.0
+67,manage,1.0
+67,simplify,1.0
+67,&gt,1.0
+67,modes,1.0
+67,easier,1.0
+68,channel information session,9.0
+68,provide targeted solutions,9.0
+68,pb channel isv,9.0
+68,systematically organize meetings,9.0
+68,adviser cross,4.0
+68,main actors,4.0
+68,understand problems,3.5
+68,understand,1.5
+68,meeting,1.0
+68,licensing,1.0
+68,training,1.0
+68,technical,1.0
+68,meet,1.0
+68,thales,1.0
+68,society,1.0
+69,server 2016 datacenter,4.0
+69,licensing metric,4.0
+69,cpu core,4.0
+69,contractual terms,4.0
+69,completely unfair,4.0
+69,change,1.0
+69,decentralized,1.0
+69,flexible,1.0
+69,constraints,1.0
+69,adapted,1.0
+69,client,1.0
+69,impact,1.0
+70,simplification,1.0
+70,licencing,1.0
+71,mode bundle,4.0
+71,microsoft products,4.0
+71,buy products,4.0
+71,licensing,1.0
+71,exit,1.0
+72,mode simplified licensing,9.0
+72,online services charged,9.0
+72,royalties,1.0
+73,licensing,1.0
+73,simplifying,1.0
+73,improve,1.0
+74,higher quality standards,9.0
+74,newer product releases,9.0
+74,rtm day 1,4.0
+75,organizational improvement services,9.0
+75,automotive world,4.0
+75,partnership agreement,4.0
+75,france,1.0
+75,signing,1.0
+75,understanding,1.0
+75,corp,1.0
+75,engineering,1.0
+76,commitment,1.0
+76,client,1.0
+77,microsoft prennenet,4.0
+77,deliver,1.0
+77,ability,1.0
+77,commitments,1.0
+77,demonstrates,1.0
+78,nosql solutions,4.0
+79,drive,1.0
+80,innovative technological solutions,9.0
+80,explore,1.0
+80,field,1.0
+80,continue,1.0
+80,proximity,1.0
+80,video,1.0
+80,past,1.0
+80,relationship,1.0
+80,maintain,1.0
+80,trust,1.0
+81,llaboration,1.0
+81,customers,1.0
+81,thinking,1.0
+81,momentum,1.0
+81,operation,1.0
+81,servng,1.0
+82,product requiring,4.0
+82,strong presence,4.0
+82,ms,1.0
+82,mixed,1.0
+82,google,1.0
+82,ecosystem,1.0
+82,business,1.0
+83,time,1.0
+83,expensive,1.0
+83,cost,1.0
+83,effective,1.0
+83,buy,1.0
+83,rent,1.0
+84,micosoft cloud,4.0
+84,clients,1.0
+84,refusal,1.0
+85,security,1.0
+85,data,1.0
+85,independence,1.0
+85,microsoft,1.0
+86,data,1.0
+86,location,1.0
+87,online service,4.0
+87,data processed,4.0
+87,confidentiality,1.0
+87,outsourcing,1.0
+87,availability,1.0
+87,risks,1.0
+88,mode capex + opex optional,23.0
+88,full mode opex,11.0
+88,office financial justification,9.0
+88,sa,1.0
+88,licences,1.0
+88,alternative,1.0
+88,chosen,1.0
+88,roi,1.0
+88,difficult,1.0
+88,pattern,1.0
+88,select,1.0
+88,provide,1.0
+88,change,1.0
+88,addition,1.0
+88,consumption,1.0
+88,solution,1.0
+88,cloud,1.0
+89,oriented social network,9.0
+89,eat cpu,4.0
+89,windows,1.0
+89,launcher,1.0
+90,win10,1.0
+90,win8,1.0
+90,business,1.0
+90,remains,1.0
+90,demonstrate,1.0
+91,ado originally,4.0
+91,change,1.0
+91,windows 7,1.0
+91,os,1.0
+91,offers,1.0
+92,monitor developments continuously,9.0
+92,software assurance,4.0
+92,technically unworkable,4.0
+92,economically impossible,4.0
+92,windows 10 requires,4.0
+92,expensive,1.0
+92,company,1.0
+93,safety study,4.0
+93,items,1.0
+93,require,1.0
+93,microsoft,1.0
+94,windows 10 requires,4.0
+94,implementation,1.0
+94,parties,1.0
+94,products,1.0
+94,evolution,1.0
+94,microsoft,1.0
+95,interractions,1.0
+95,contacts,1.0
+96,contractual structure remains,9.0
+96,optimize,1.0
+96,time,1.0
+96,understand,1.0
+96,devote,1.0
+96,complex,1.0
+97,account manager,4.0
+97,proliferation,1.0
+97,avoid,1.0
+97,give,1.0
+97,interlocutors,1.0
+97,prerogatives,1.0
+98,customers,1.0
+98,understand,1.0
+99,box,1.0
+100,cloudwatt,1.0
+101,orange / cloudwatt,9.0
+102,ovh,1.0
+103,ovh,1.0
+104,ups,1.0
+104,starts,1.0
+105,stmantec,1.0
+106,talentsoft,1.0
+107,opensource,1.0
+108,team commercial,4.0
+108,advice,1.0
+108,efficient,1.0
+108,accompaniment,1.0
+109,current microsoft services,9.0
+109,products,1.0
+109,understanding,1.0
+110,email migration project,9.0
+110,offer microsoft,4.0
+110,integration perimeter,4.0
+110,technological solutions,4.0
+110,integration tasks,4.0
+110,lack,1.0
+110,suffered,1.0
+110,opinion,1.0
+110,extent,1.0
+110,terms,1.0
+110,knowledge,1.0
+110,caveat,1.0
+110,change,1.0
+110,improved,1.0
+110,maturity,1.0
+111,strategy,1.0
+111,clarity,1.0
+112,making efforts,4.0
+112,respond,1.0
+112,microsoft,1.0
+113,deployment,1.0
+113,microsoft,1.0
+113,windows 10,1.0
+113,dynamism,1.0
+113,efforts,1.0
+113,products,1.0
+113,azure,1.0
+114,strategy cloud relevant,9.0
+115,roadmap associate,4.0
+115,clearer,1.0
+115,strategy,1.0
+116,continuum,1.0
+116,devices,1.0
+116,innovation,1.0
+117,personalise service,4.0
+117,connection,1.0
+118,strategy product interesting,9.0
+118,true,1.0
+118,ecosystem,1.0
+118,partners,1.0
+118,live,1.0
+119,technologies,1.0
+119,innovation,1.0
+120,previous software sales manager,16.0
+120,microsoft editor remains linked,16.0
+120,audit period experienced,9.0
+120,dissatisfaction felt,4.0
+120,maedi,1.0
+120,dsi,1.0
+120,initiated,1.0
+120,ministry,1.0
+120,approach,1.0
+121,premier support contract renewal,16.0
+121,attitude,1.0
+122,frequent contacts,4.0
+122,microsoft teams,4.0
+123,business transformation project,9.0
+123,commercial proximity,4.0
+123,accompaniment,1.0
+124,offer o365 teams,9.0
+124,shares microsoft,3.5
+124,microsoft,1.5
+124,enrichment/evolution,1.0
+124,partnership,1.0
+124,strengthening,1.0
+125,win10 requiring companies,9.0
+125,complex licensing system,9.0
+125,install version continuously,9.0
+125,active proposal improve,9.0
+125,ups,1.0
+125,pro,1.0
+125,compatible,1.0
+125,process,1.0
+125,innovation,1.0
+125,security,1.0
+125,policy,1.0
+125,progress,1.0
+125,activity,1.0
+125,start,1.0
+126,improved responsiveness,4.0
+126,solution,1.0
+126,support,1.0
+126,provision,1.0
+127,avoid systematically propose sa,14.5
+127,integrating ems cal,9.0
+127,unused solutions,4.0
+127,sa,2.5
+127,rms,1.0
+127,heavy,1.0
+127,contribution,1.0
+127,impossible,1.0
+127,block,1.0
+127,implementation,1.0
+127,pay,1.0
+127,bundlelisees,1.0
+127,fact,1.0
+127,offers,1.0
+127,understand,1.0
+127,intune/sscm,1.0
+127,time,1.0
+127,context,1.0
+127,aad,1.0
+128,discuss,1.0
+129,highly effective,4.0
+129,close collaboration,4.0
+129,today,1.0
+130,current momentum,4.0
+130,maintain,1.0
+131,implemented,1.0
+131,express,1.0
+131,regard,1.0
+131,convictions,1.0
+131,context,1.0
+131,solutions,1.0
+132,issues,1.0
+132,understand,1.0
+133,microsoft technologies,4.0
+133,implementing drivers,4.0
+133,quality support,4.0
+133,continue,1.0
+133,provide,1.0
+133,demonstrators,1.0
+134,promote internally,4.0
+134,accesa,1.0
+134,order,1.0
+134,lab,1.0
+134,provide,1.0
+134,virtual,1.0
+134,products,1.0
+134,action,1.0
+135,fine,1.0
+136,positive return,4.0
+136,teams,1.0
+136,team,1.0
+136,microsoft,1.0
+136,performance,1.0
+136,good,1.0
+138,support contract renewal proposals,14.0
+138,financial capabilities,4.0
+138,made benefits,4.0
+138,tangible results,4.0
+138,announced shares,4.0
+138,contract,2.0
+138,windows 10,1.0
+138,situation,1.0
+138,understanding,1.0
+138,period,1.0
+138,showed,1.0
+138,implementation,1.0
+138,real,1.0
+138,cover,1.0
+138,tense,1.0
+138,hope,1.0
+138,led,1.0
+139,upgrading microsoft solutions,8.5
+139,oriented solutions,4.5
+139,communicate,1.0
+139,practice,1.0
+139,design,1.0
+139,assist,1.0
+140,taking greater account,9.0
+140,economic constraints,4.0
+141,review meetings,4.0
+141,innovative topics,4.0
+141,azure,1.0
+141,follow,1.0
+142,direct response,4.0
+142,trade issues,4.0
+142,legal issues,4.0
+142,contractual,1.0
+142,microsoft,1.0
+142,answers,1.0
+142,penalizing,1.0
+142,returns,1.0
+142,reseller,1.0
+142,topics,1.0
+142,contracts,1.0
+142,questions,1.0
+143,response,1.0
+143,maintain,1.0
+143,optimum,1.0
+143,level,1.0
+144,simplify administration tasks,9.0
+144,ergonomics adapted,4.0
+144,pc,1.0
+144,features,1.0
+144,shelves,1.0
+145,desktop mode,4.0
+145,good management,4.0
+145,excellent ergonomics,4.0
+145,tablet mode,4.0
+146,ergonomics,1.0
+147,ergonomics,1.0
+147,ease,1.0
+148,global footprint,4.0
+148,drives,1.0
+148,os,1.0
+148,speed,1.0
+148,reliability,1.0
+149,reliability ergonomics,4.0
+150,day continuous system,9.0
+150,hand easy,4.0
+150,jack,1.0
+151,windows 7,1.0
+151,windows 8,1.0
+151,1 combines,1.0
+152,security hardening,4.0
+152,post,1.0
+152,scalability,1.0
+152,multi,1.0
+152,win 7,1.0
+152,tablet,1.0
+152,factor,1.0
+153,os park,4.0
+153,unification,1.0
+154,convergence multi device,9.0
+154,menu,1.0
+154,start,1.0
+154,windows 8,1.0
+154,phone,1.0
+154,tablet,1.0
+154,emergence,1.0
+154,pc,1.0
+155,licensing system,4.0
+155,fixed operation,4.0
+155,mobile &,1.0
+155,ditto,1.0
+156,form factors,4.0
+156,simple,1.0
+156,powerful,1.0
+156,works,1.0
+157,features interesting,4.0
+157,change management,4.0
+157,deployment,1.0
+157,w7,1.0
+157,simplicity,1.0
+157,xp,1.0
+157,traumatic,1.0
+157,security,1.0
+157,master,1.0
+157,theoretical,1.0
+158,good product,4.0
+158,simple,1.0
+158,efficient,1.0
+159,ergonomics,1.0
+159,stability,1.0
+160,startup stability,4.0
+160,speed,1.0
+161,slow,1.0
+161,optimization,1.0
+161,upgrade,1.0
+161,ease,1.0
+161,os,1.0
+161,performance,1.0
+161,pc,1.0
+162,windows 8,1.0
+162,everyday,1.0
+162,problem,1.0
+164,end user,4.0
+164,easy management,4.0
+164,licenses,1.0
+164,flexibility,1.0
+165,multi devices / os,16.0
+165,collaborative,1.0
+165,real,1.0
+165,time,1.0
+166,implementation,1.0
+166,ease,1.0
+166,accessibility,1.0
+166,speed,1.0
+167,ergonomics,1.0
+167,availability,1.0
+167,integration,1.0
+167,functions,1.0
+167,cloud,1.0
+168,flexibility,1.0
+169,cost based,4.0
+169,upcoming nego,4.0
+170,office base,4.0
+170,functional coverage,4.0
+170,deployment,1.0
+170,ease,1.0
+172,innovative solutions,4.0
+173,mode hybrid,4.0
+173,availability,1.0
+173,capacity,1.0
+174,sharepoint part,4.0
+174,messaging,1.0
+174,capex,1.0
+174,limits,1.0
+174,service,1.0
+174,updates,1.0
+174,automatic,1.0
+175,full cloud,4.0
+175,secure solution,4.0
+175,reliable,1.0
+176,units,1.0
+176,synchronized,1.0
+176,access,1.0
+177,notorious note disappointment,9.0
+177,synchronization onedrive client,8.5
+177,mobile synchronization,4.5
+177,fixed pc,4.0
+177,skype app,4.0
+177,long wait,4.0
+177,rapid opening,4.0
+177,constant evolution,4.0
+177,great hope,4.0
+177,skype fb,4.0
+177,mutual support,4.0
+177,benefit regularly,4.0
+177,finally released,3.5
+177,o365 network,3.5
+177,finally,1.5
+177,network,1.5
+177,device,1.0
+177,multi,1.0
+177,updates,1.0
+177,services =>,1.0
+177,availability,1.0
+177,os =>,1.0
+177,teams,1.0
+177,tool,1.0
+177,features,1.0
+177,part,1.0
+177,data,1.0
+177,point,1.0
+177,security,1.0
+177,communication,1.0
+177,services,1.0
+177,im,1.0
+177,transparency,1.0
+177,advantage,1.0
+177,requires,1.0
+177,cloud,1.0
+177,pending,1.0
+177,users,1.0
+177,flat,1.0
+177,accompaniment,1.0
+177,windows 8,1.0
+177,accordance,1.0
+177,information,1.0
+177,business,1.0
+177,adaptation,1.0
+178,simplified access,4.0
+178,1st level,4.0
+178,sharepoint,1.0
+178,sfb,1.0
+178,mobility,1.0
+178,services,1.0
+178,yammer,1.0
+179,availability fluidity,4.0
+180,systematically check,4.0
+180,independent publishers,4.0
+180,completely provision,4.0
+180,give advice,4.0
+180,objective,1.0
+180,difficult,1.0
+180,achieve,1.0
+180,recommendations,1.0
+181,inform,1.0
+181,products,1.0
+181,aspects,1.0
+182,active directory,4.0
+182,infrastructure,1.0
+182,organization,1.0
+182,council,1.0
+182,governance,1.0
+183,high iso accmpagnement scope,16.0
+183,search engine applications cloud,16.0
+183,apparent cost,4.0
+183,technology publishers,4.0
+183,bring,1.0
+183,services,1.0
+183,company,1.0
+184,ms catches,4.0
+184,machines,1.0
+184,ahead,1.0
+184,range,1.0
+184,return,1.0
+184,services,1.0
+184,request,1.0
+185,simple licensing mode,9.0
+185,clear,1.0
+186,simpler contractual approach,9.0
+187,security systems,4.0
+187,innovation,1.0
+188,financial solutions,4.0
+188,sap,1.0
+188,depends,1.0
+188,workstation,1.0
+188,microsoft,1.0
+189,business intelligence solutions,8.5
+189,business management,4.5
+190,history,1.0
+190,performance,1.0
+190,reliability,1.0
+191,properly made,4.0
+191,breaking,1.0
+191,subjects,1.0
+191,points,1.0
+191,dynamics,1.0
+191,current,1.0
+192,match,1.0
+192,engineers,1.0
+192,expectations,1.0
+192,level,1.0
+193,large technical expertise,9.0
+194,change management,4.0
+195,responses targeted,4.0
+195,security,1.0
+195,problems,1.0
+196,microsoft team put,9.0
+196,people resources,4.0
+196,meeting,1.0
+196,contact,1.0
+196,rich,1.0
+196,paris,1.0
+197,olivier zucchet,4.0
+197,real pleasure,4.0
+197,listening,1.0
+197,work,1.0
+197,satisfied,1.0
+197,team,1.0
+197,repeat,1.0
+197,times,1.0
+197,microsoft,1.0
+198,flexibility vehicles,4.0
+198,bring,1.0
+198,review,1.0
+198,contract,1.0
+199,o365 features,4.0
+199,deployment,1.0
+199,control,1.0
+199,dates,1.0
+200,licenses,1.0
+200,complicated,1.0
+200,understanding,1.0
+201,flexible licensing,4.0
+201,ecosystem google,4.0
+201,considers,1.0
+201,cal,1.0
+201,expensive,1.0
+201,simple,1.0
+201,interporable,1.0
+201,possibly,1.0
+201,price,1.0
+202,simplify licensing contracts,9.0
+203,client / provider,9.0
+203,true positioning,4.0
+203,partnership,1.0
+204,visibility client products roadmap,15.0
+204,enterprise contract management,8.0
+204,major products,5.0
+204,service life,4.0
+204,microsoft puts,4.0
+204,contract,2.0
+204,licensing,1.0
+204,regrettable,1.0
+204,unlimited,1.0
+204,communication,1.0
+204,announced,1.0
+204,select,1.0
+204,change,1.0
+204,unilaterally,1.0
+204,end,1.0
+205,explain,1.0
+206,secure cloud solutions,9.0
+206,meet,1.0
+206,standards,1.0
+206,storage,1.0
+207,support engineers,4.0
+207,direct access,4.0
+207,premier customers,4.0
+207,l2,1.0
+207,loss,1.0
+207,time,1.0
+207,avoid,1.0
+207,l1,1.0
+207,l3,1.0
+208,pull effect,4.0
+208,offer solutions,4.0
+208,internal users,3.5
+208,users,1.5
+208,create,1.0
+208,tools,1.0
+210,version requirements improve safety,16.0
+210,simplify contracts & rise,9.0
+211,taking account,4.0
+211,incidents,1.0
+211,fast,1.0
+212,lync,1.0
+213,support ie9,3.5
+213,support,1.5
+213,end,1.0
+214,stakeholders,1.0
+214,availability,1.0
+215,reactivity,1.0
+215,tuned,1.0
+216,health checkups helped,9.0
+216,microsoft technologies,4.0
+216,deepen,1.0
+216,architectures,1.0
+216,ministry,1.0
+216,applied,1.0
+216,knowledge,1.0
+216,recommendations,1.0
+217,component type biztalk,9.0
+217,support o365,4.0
+217,sql server,4.0
+217,difference,1.0
+217,maturity,1.0
+217,note,1.0
+217,incident,1.0
+217,older,1.0
+218,specific offer,4.0
+218,billing system,4.0
+218,context,1.0
+218,suitable,1.0
+219,united kingdom,4.0
+219,datacenter located,3.5
+219,datacenter,1.5
+219,germany,1.0
+219,france,1.0
+219,question,1.0
+220,security,1.0
+220,reasons,1.0
+221,oriented internal skills vmware,16.0
+222,interdepartmental dinsic market,9.0
+223,mcs strategy compete directly,16.0
+223,long term,4.0
+223,integration activities,3.5
+223,activities,1.5
+223,find,1.0
+223,ambiguity,1.0
+223,microsoft,1.0
+223,difficulty,1.0
+223,partner,1.0
+223,cloud,1.0
+223,positioning,1.0
+223,handle,1.0
+223,competitor,1.0
+224,microsoft,1.0
+225,change,1.0
+226,change,1.0
+226,opening,1.0
+226,strategy,1.0
+226,mobility,1.0
+227,relationship managed,4.0
+227,reactive returns,4.0
+227,proactively,1.0
+228,open source guidelines,9.0
+228,satya vision,4.0
+228,windows 10,1.0
+229,operational advanced information,9.0
+229,dynamic contact,4.0
+230,big change,4.0
+230,including council,4.0
+230,work,1.0
+230,openness,1.0
+230,willingness,1.0
+230,partners,1.0
+231,capgemini group,4.0
+231,technological choices,4.0
+231,hand microsoft,3.5
+231,microsoft,1.5
+231,attitude,1.0
+231,relationship,1.0
+231,reinvesting,1.0
+231,extremely,1.0
+231,france,1.0
+231,changed,1.0
+231,open,1.0
+231,customers,1.0
+231,past,1.0
+231,partnership,1.0
+231,received,1.0
+232,services offerings,4.0
+232,microsoft,1.0
+232,alignment,1.0
+233,demonstrate microsoft,4.0
+233,manufacturing field,4.0
+233,microsoft demos,4.0
+233,bi solutions,4.0
+233,ability,1.0
+233,support,1.0
+233,accelerator,1.0
+233,partners,1.0
+233,showroom,1.0
+233,impressed,1.0
+233,specifically,1.0
+233,expertise,1.0
+233,iot,1.0
+234,commercial relationship shares targeted,16.0
+234,cgi france breast,9.0
+234,program red carpet,9.0
+234,alliance manager cgi,8.0
+234,alliance manager,5.0
+234,presentation solutions,4.0
+234,microsoft editor,3.666666666666667
+234,microsoft offerings,3.666666666666667
+234,face training,3.5
+234,coordinates actions,3.5
+234,microsoft,1.6666666666666667
+234,face,1.5
+234,actions,1.5
+234,esn,1.0
+234,cabinet,1.0
+234,journal,1.0
+234,centralizes,1.0
+234,pipe,1.0
+234,clients,1.0
+234,availability,1.0
+234,assist,1.0
+234,6 months,1.0
+234,skills,1.0
+234,put,1.0
+234,implement,1.0
+234,assembled,1.0
+234,partnership,1.0
+234,adapted,1.0
+234,partner,1.0
+234,avv,1.0
+234,organisation,1.0
+234,online,1.0
+234,business,1.0
+234,propose,1.0
+235,good quality,4.0
+235,alliance manager,4.0
+235,free training,4.0
+235,seller,1.0
+235,force,1.0
+235,follow,1.0
+235,proposal,1.0
+235,program,1.0
+235,biggie,1.0
+236,large involvement,4.0
+236,biggie,1.0
+237,philippe biggie side microsoft,16.0
+237,quality carried,4.0
+237,tools provided,4.0
+237,power,1.0
+237,publisher,1.0
+237,allowed,1.0
+237,dimension,1.0
+237,establishment,1.0
+237,offer,1.0
+237,customers,1.0
+237,partnership,1.0
+237,added,1.0
+238,partner resp,4.0
+238,clear relationship,4.0
+239,microsoft opens,4.0
+239,demonstrated openness,4.0
+239,customers,1.0
+239,technologies,1.0
+239,understanding,1.0
+240,made exceptional progress,9.0
+240,advanced analytical solutions,9.0
+240,products big data,9.0
+240,ecosystem azure,4.0
+240,microsoft takes,3.5
+240,microsoft,1.5
+240,bi,1.0
+240,range,1.0
+240,lead,1.0
+240,innovation,1.0
+240,implementation,1.0
+240,simplifies,1.0
+240,perception,1.0
+240,cloud,1.0
+241,alliance manager dedicated,9.0
+241,definite,1.0
+241,arrival,1.0
+242,partners providing content interesting technology,25.0
+242,sales technical support,9.0
+242,wanting,1.0
+242,pre,1.0
+242,open,1.0
+243,approach focused,4.0
+243,push solutions,4.0
+243,lead generation,4.0
+243,access cutback,4.0
+243,customers,1.0
+243,assets,1.0
+243,train,1.0
+243,microsoft,1.0
+244,clear offer,4.0
+244,readability,1.0
+245,grant exclusive rights,9.0
+245,opportunities,1.0
+246,strategy sessions,4.0
+246,common events,4.0
+246,training destined,4.0
+246,senior managers,4.0
+246,exclusive content,4.0
+246,organise,1.0
+246,make,1.0
+246,access,1.0
+247,client account teams,9.0
+247,increase alignment,4.0
+248,qbr,1.0
+249,big change,4.0
+249,dedicated officer,4.0
+249,investment,1.0
+249,moment,1.0
+249,height,1.0
+249,side,1.0
+249,honestly,1.0
+250,continue,1.0
+251,trade programs,4.0
+251,contractual aspects,4.0
+251,support,1.0
+252,generate business participate rdv commercial,25.0
+252,grenoble region,4.0
+252,organize workshop,4.0
+252,customer proximity,4.0
+253,forget,1.0
+253,midsize,1.0
+254,cgi region teams,8.0
+254,organization decentralized,4.0
+254,including lyon,4.0
+254,face meetings,3.5
+254,cgi,2.0
+254,face,1.5
+254,presences,1.0
+254,microsoft,1.0
+254,place,1.0
+254,put,1.0
+254,paris,1.0
+255,adapted supports levels,9.0
+255,partnership,1.0
+255,includes,1.0
+255,provision,1.0
+256,alliance manager,4.0
+256,means implemented,4.0
+256,current system,4.0
+256,satisfied,1.0
+257,current level,4.0
+257,maintain,1.0
+258,resources azure,4.0
+258,poc,1.0
+258,pool,1.0
+258,access,1.0
+258,sandbox,1.0
+259,client demo,4.0
+259,msdn,1.0
+259,credit,1.0
+259,access,1.0
+259,azure,1.0
+260,ms accompagenemnt,4.0
+260,major issue,4.0
+260,subjects worn,4.0
+260,internal teams,4.0
+260,ms device,4.0
+260,sogeti ats,3.5
+260,ats,1.5
+260,relations,1.0
+260,transformation,1.0
+260,proximity,1.0
+260,fundamental,1.0
+260,set,1.0
+260,customers,1.0
+260,year,1.0
+260,energize,1.0
+261,joint action plans,9.0
+261,multiply,1.0
+262,optimunm,1.0
+262,collaboration,1.0
+262,perfect,1.0
+263,leading cloud,4.0
+263,present image,4.0
+263,amazon,1.0
+263,clients,1.0
+264,product marketing,4.0
+265,puts forward,4.0
+265,dynamic image,4.0
+265,google,1.0
+265,mobility,1.0
+265,works,1.0
+265,microsoft,1.0
+265,area,1.0
+266,builder solutions end,8.0
+266,great levels,4.0
+266,end,2.0
+266,complexity,1.0
+267,approach large account,9.0
+267,easily accompany sales,8.5
+267,sales specialist 1,4.5
+267,market share,4.0
+267,broader positioning,4.0
+267,industrial solutions,4.0
+267,bad reasons,4.0
+267,topics proposed,4.0
+267,properly applied,4.0
+267,initially launched,4.0
+267,acquisition strategy,3.5
+267,cloud scenario,3.5
+267,ibm remains,3.5
+267,strategy,1.5
+267,ibm,1.5
+267,cloud,1.5
+267,choice,1.0
+267,efficient,1.0
+267,editor,1.0
+267,industry,1.0
+267,contrary,1.0
+267,process,1.0
+267,customer,1.0
+267,customers,1.0
+267,microsoft,1.0
+267,aspect,1.0
+267,verticalisation,1.0
+267,directs,1.0
+267,allowing,1.0
+267,brick,1.0
+267,purchaser,1.0
+267,cover,1.0
+267,accept,1.0
+267,moderate,1.0
+267,business,1.0
+267,partners,1.0
+268,marketing,1.0
+269,type products,4.0
+269,coverage,1.0
+269,erp,1.0
+270,including largely funding vouchers azure,25.0
+270,strategic partners invests,8.5
+270,strategic relationship,4.5
+270,sap sells,4.0
+270,accelerate,1.0
+270,business,1.0
+270,notoriety,1.0
+270,essential,1.0
+270,microsoft,1.0
+270,group,1.0
+270,ibm,1.0
+270,products,1.0
+271,solutions,1.0
+271,company,1.0
+271,coverage,1.0
+271,process,1.0
+272,rfp,1.0
+272,positioning,1.0
+273,real account policy exchanges,16.0
+273,capgemini / sogeti,9.0
+273,accelerate collaboration,4.0
+273,rapprochement,1.0
+273,year,1.0
+273,mcs,1.0
+273,efficiency,1.0
+273,teams,1.0
+273,source,1.0
+273,occurred,1.0
+273,microsoft,1.0
+274,support ms,4.0
+275,expertise sql server provided,16.0
+275,mcs study performance,9.0
+275,database,1.0
+275,identify,1.0
+275,points,1.0
+275,problems,1.0
+275,essential,1.0
+275,customers,1.0
+275,contention,1.0
+275,throw,1.0
+275,project,1.0
+275,months,1.0
+275,day,1.0
+276,proactive microsoft commercial,9.0
+277,provide credit azure,9.0
+277,apprehend products,4.0
+277,real situation,4.0
+277,tests,1.0
+277,vendres,1.0
+277,implementations,1.0
+277,poc,1.0
+277,discuss,1.0
+277,partners,1.0
+278,azure base provide transverse service,25.0
+278,integration tools,4.0
+278,application monitoring,4.0
+278,technical monitoring,4.0
+278,jee/java,1.0
+278,propose,1.0
+278,accelerator,1.0
+278,middleware,1.0
+278,portal,1.0
+278,based,1.0
+279,availability expertise,4.0
+280,bring fruit,4.0
+280,effort made,4.0
+280,improves year,3.333333333333333
+280,year,1.3333333333333333
+280,allowing,1.0
+280,teams,1.0
+280,relationship,1.0
+280,partners,1.0
+280,hope,1.0
+280,microsoft,1.0
+280,perpetuate,1.0
+280,cgi,1.0
+281,gold partners receive,9.0
+281,capgemini / sogeti,9.0
+281,capgemini sogeti tailel,9.0
+281,pure players,4.0
+281,ten consultants,3.5
+281,consultants,1.5
+281,investment,1.0
+281,mpn,1.0
+281,tests,1.0
+281,vouchers,1.0
+281,amount,1.0
+281,microsoft,1.0
+281,architects,1.0
+281,provision,1.0
+281,part,1.0
+281,products,1.0
+281,000 employees,1.0
+282,share/loan products,4.0
+282,capgemini teams,4.0
+282,solution microsoft,4.0
+282,familiarize,1.0
+282,clients,1.0
+282,sell/promote,1.0
+283,integrate microsoft technologies,9.0
+283,push joint solutions,9.0
+283,business development,4.0
+283,stated previously,4.0
+283,strengthen,1.0
+283,sogeti,1.0
+283,implementation,1.0
+283,dynamics,1.0
+283,expertise,1.0
+283,involves,1.0
+284,response times,4.0
+284,partner portal,4.0
+284,facilitate access,4.0
+284,improvement,1.0
+284,information,1.0
+285,financially impacted jointly,9.0
+285,capital participation,4.0
+285,compensation plan,4.0
+285,local level,4.0
+285,crossed,1.0
+285,success,1.0
+285,strengthening,1.0
+285,companies,1.0
+285,failure,1.0
+285,society,1.0
+285,partnership,1.0
+286,solutions microsoft,4.0
+286,resale,1.0
+286,products,1.0
+286,range,1.0
+287,erp products,4.0
+287,extension,1.0
+288,exculisivite,1.0
+288,transparency,1.0
+288,tenders,1.0
+288,level,1.0
+290,office 2012,1.0
+290,performance,1.0
+291,model,1.0
+291,microsoft,1.0
+291,solution,1.0
+291,impose,1.0
+291,repond,1.0
+292,data security,4.0
+293,premise,1.0
+293,office 365,1.0
+293,questions,1.0
+293,facilities,1.0
+293,federer,1.0
+293,securitz,1.0
+294,confidentiality,1.0
+294,information,1.0
+295,data dependence,4.0
+295,outsourcing,1.0
+295,internet,1.0
+296,sensitive,1.0
+296,organization,1.0
+296,office 365,1.0
+296,moment,1.0
+296,choice,1.0
+296,cloud,1.0
+297,price,1.0
+298,access,1.0
+298,cloud,1.0
+299,safe harbor,4.0
+300,azure ad,4.0
+300,strong constraint,4.0
+300,business,1.0
+301,onedrive solution,4.0
+301,companies distributed,4.0
+301,large organizations,4.0
+301,latency problems,4.0
+301,world,1.0
+301,piece,1.0
+301,administer,1.0
+301,complex,1.0
+301,pose,1.0
+301,location,1.0
+302,multiple environments,4.0
+302,installed base,4.0
+302,multi media,4.0
+302,stability,1.0
+302,cost,1.0
+302,real,1.0
+303,king,1.0
+304,instability onedrive,4.0
+305,multi tenants complexity,9.0
+305,long process,4.0
+305,sync performance,4.0
+305,admin console,4.0
+305,ability,1.0
+305,reporting,1.0
+305,deploy,1.0
+305,lack,1.0
+306,problems related,4.0
+306,suitable solutions,4.0
+306,premise customers,3.5
+306,premise,1.5
+306,priority,1.0
+306,development,1.0
+306,leaving,1.0
+306,microsoft,1.0
+306,lack,1.0
+306,functions,1.0
+306,availability,1.0
+306,office 365,1.0
+307,chose google apps,9.0
+308,made,1.0
+308,year,1.0
+308,bring,1.0
+308,confidence,1.0
+308,building,1.0
+308,security,1.0
+308,problems,1.0
+308,data,1.0
+308,effort,1.0
+308,trust,1.0
+308,formalization,1.0
+309,security data confidential information handled,25.0
+309,microsoft datacenter hosting solution physically,25.0

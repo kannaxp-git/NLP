@@ -1,0 +1,4 @@
+codeclimate-test-reporter
+codecov
+pytest
+pytest-cov

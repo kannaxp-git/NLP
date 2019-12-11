@@ -1,0 +1,5 @@
+normalizations:
+  - remove_extra_white_spaces:
+  - replace_punctuation:
+      replacement: ' '
+  - remove_symbols

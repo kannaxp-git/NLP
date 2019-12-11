@@ -1,0 +1,1 @@
+maml score in=C:\Users\kach\Documents\My_Stuff\iWORKS\My_Python\RAKE\RAKE\0.model.zip data=C:\Users\kach\Documents\My_Stuff\iWORKS\My_Python\RAKE\RAKE\H2CPE_RAKE_Output.txt dout=C:\Users\kach\Documents\My_Stuff\iWORKS\My_Python\RAKE\RAKE\RAKE_DSSM_Grouping.tsv saver=text all=+ pxf=ChooseColumnsTransform{col=ID col=Phrase col=Score col=PredictedLabel} 

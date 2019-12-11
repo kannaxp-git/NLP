@@ -1,0 +1,9 @@
+import nltk
+verbatim="I recently copied a file in shared drive. where did you move? if not, what is the default location for downloads? i want it urgently. can you help me to find it?"
+QuestionTags =['WDT','WP','WP$','WRB','MD']
+for sentence in nltk.sent_tokenize(verbatim):
+    Q='- '
+    for tag in nltk.pos_tag(nltk.word_tokenize(sentence)):
+        if any(Qtag.lower() == tag[1].lower() for Qtag in QuestionTags):
+            Q='Q '
+    print(Q,sentence)

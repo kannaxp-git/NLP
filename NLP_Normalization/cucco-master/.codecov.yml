@@ -1,0 +1,5 @@
+coverage:
+  ignore:
+    - 'cucco/cli.py'
+    - 'setup.py'
+    - 'tests/*'
